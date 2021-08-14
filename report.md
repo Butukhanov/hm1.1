@@ -8,7 +8,7 @@
 
 В результате тестирования выявлен следующий дефект:
 
-* [Не отработка валидной карты в ПО IntelliJ IDEA Community Edition при введении семнадцатизначного номера карты](https://github.com/butukhanov/hm1.1/issues)
+* [Не отработка валидной карты в ПО IntelliJ IDEA Community Edition при введении семнадцатизначного номера карты](https://github.com/butukhanov/hm1.1/issues/1)
 
 Тестирование производилось в следующем окружении:
 * OC Winwows 10 64-bit
