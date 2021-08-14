@@ -7,10 +7,9 @@
 На тестирование затрачено: 2 ч
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/butukhanov/hm1.1/issues
 
-В качестве тестовых данных использовались данные: https://fakepersongenerator.com/credit-card-generator
+* [Не отработка валидной карты в ПО IntelliJ IDEA Community Edition при введении семнадцатизначного номера карты](https://github.com/butukhanov/hm1.1/issues)
 
 Тестирование производилось в следующем окружении:
-* OC Winwows 10
-* версия Java 11
+* OC Winwows 10 64-bit
+* Java 11.0.11+9-b1504.13 amd64
